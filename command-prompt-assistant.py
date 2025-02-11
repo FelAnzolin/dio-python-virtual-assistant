@@ -1,4 +1,14 @@
-#Testado com playsound 1.2.2
+#Testado com Python 3.12
+# Pacotes Utilizados:
+#pip install gTTS
+#pip install speechrecognition
+#pip install playsound==1.2.2
+#pip install wikipedia
+#pip install pyjokes
+#pip install winshell
+#pip install pygame
+#pip install pyaudio
+#pip install pypiwin32
 
 # Imports para execução
 import speech_recognition as sr
